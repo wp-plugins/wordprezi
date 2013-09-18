@@ -49,9 +49,9 @@ Hard to tell, but I really hope so. It would be great if Wordpress.com team coul
 
 To embed your prezis into your blogposts, add the following shortcode into yout blogpost:
 
-``
+`
 [prezi url="prezi URL here"]
-``
+`
 
 It is also possible to specify this options:
 * *width and height*: dimensions of the embed prezi in pixels. Default dimensions: width=550 and height=400
@@ -59,6 +59,6 @@ It is also possible to specify this options:
 
 Example:
 
-``
+`
 [prezi url="http://prezi.com/ebosu8kq6vjn/embed-prezi-into-wordpress/" width="600" height="430" zoom_freely="N"]
-``
+`
