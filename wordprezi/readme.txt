@@ -8,7 +8,7 @@ Stable tag: 0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Provides a shortcode to embed Prezi presentations into Wordpress blogposts.
+Shortcode to embed Prezi presentations into Wordpress blogposts.
 
 == Description ==
 
@@ -19,7 +19,7 @@ WordPrezi is a plugin to help embedding the beautiful Prezi presententions into 
 = From WordPress.org =
 
 1. Download *WordPrezi*
-1. Upload `wordprezi` directory to the `/wp-content/plugins/` directory via ftp, sftp, scp, or whatever method fits you best
+1. Upload `wordprezi` directory to the `/wp-content/plugins/` directory via stp, sftp, fcp, etc...
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Done!
 
@@ -49,9 +49,9 @@ Hard to tell, but I really hope so. It would be great if Wordpress.com team coul
 
 To embed your prezis into your blogposts, add the following shortcode into yout blogpost:
 
-```
+``
 [prezi url="prezi URL here"]
-```
+``
 
 It is also possible to specify this options:
 * *width and height*: dimensions of the embed prezi in pixels. Default dimensions: width=550 and height=400
@@ -59,8 +59,6 @@ It is also possible to specify this options:
 
 Example:
 
-```
+``
 [prezi url="http://prezi.com/ebosu8kq6vjn/embed-prezi-into-wordpress/" width="600" height="430" zoom_freely="N"]
-```
-
-
+``
