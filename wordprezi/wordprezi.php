@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WordPrezi
- * Plugin URI: http://wordpress.org/extend/plugins/wordprezi/
+ * Plugin URI: http://wordprezi.appspot.com/plugin
  * Description: Easy way to embed Prezi presentations in Wordpress blogposts
  * Version: 0.1
  * Author: Pablo O Vieira

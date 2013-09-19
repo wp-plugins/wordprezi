@@ -1,6 +1,6 @@
 === WordPrezi ===
 Contributors: povieira
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9YCMDJ739G4DE
+Donate link: http://wordprezi.appspot.com/plugin
 Tags: prezi, embed, wordpress, wordprezi
 Requires at least: 3.0.1
 Tested up to: 3.6.1
@@ -12,7 +12,11 @@ Shortcode to embed Prezi presentations into Wordpress blogposts.
 
 == Description ==
 
-WordPrezi is a plugin to help embedding the beautiful Prezi presententions into Wordpress blogposts.
+**WordPrezi** is a plugin to help embedding the beautiful Prezi presententions into Wordpress blogposts.
+
+Follow [WordPrezi](https://twitter.com/WordPrezi).
+
+For more information, check out [WordPrezi plugin website](http://wordprezi.appspot.com/plugin).
 
 == Installation ==
 
@@ -32,11 +36,11 @@ WordPrezi is a plugin to help embedding the beautiful Prezi presententions into 
 
 == Frequently Asked Questions ==
 
-= Is this plugin related with [WordPrezi](http://wordprezi.appspot.com) for Wordpress.com? =
+= Is this plugin related with WordPrezi (http://wordprezi.appspot.com) for Wordpress.com? =
 
 YES! This is the alternative option for self-hosted Wordpress blog users.
 
-= Is this plugin can be incorporated by Wordpress.com some day? =
+= Can this plugin be incorporated by Wordpress.com some day? =
 
 Hard to tell, but I really hope so. It would be great if Wordpress.com team could do that.
 
@@ -47,7 +51,7 @@ Hard to tell, but I really hope so. It would be great if Wordpress.com team coul
 
 == Usage ==
 
-To embed your prezis into your blogposts, add the following shortcode into yout blogpost:
+To embed your prezis into your blogposts, add the following shortcode into your blogpost:
 
 `
 [prezi url="prezi URL here"]
