@@ -3,8 +3,8 @@ Contributors: povieira
 Donate link: http://wordprezi.appspot.com/plugin
 Tags: prezi, embed, wordpress, wordprezi
 Requires at least: 3.0.1
-Tested up to: 3.9
-Stable tag: 0.2
+Tested up to: 4.0
+Stable tag: 0.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl.html
 
@@ -17,6 +17,9 @@ Shortcode to embed Prezi presentations into Wordpress blogposts.
 Follow [WordPrezi](https://twitter.com/WordPrezi).
 
 For more information, check out [WordPrezi plugin website](http://wordprezi.appspot.com/plugin).
+
+*If this plugin has been helpful, please take a moment to
+[rate it](http://wordpress.org/support/view/plugin-reviews/wordprezi#postform)!*
 
 == Installation ==
 
