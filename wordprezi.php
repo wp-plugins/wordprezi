@@ -35,7 +35,8 @@ function validate_params( $atts ) {
 		'url' => null,
 		'width' => 500,
 		'height' => 400,
-		'zoom_freely' => 'N'
+		'zoom_freely' => 'N',
+		'use_html5' => 'N'
 	), $atts ) );
 
 	$err_msg = '';
