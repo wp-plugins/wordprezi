@@ -49,6 +49,10 @@ Hard to tell, but I really hope so. It would be great if Wordpress.com team coul
 
 == Changelog ==
 
+= 0.4 - 2014-09-11 =
+* Tested with WP 4.0
+* Prezi HTML5 comptibility
+
 = 0.2 - 2014-04-24 =
 * Bug fix WP 3.9 compatibility
 
