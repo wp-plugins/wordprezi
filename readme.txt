@@ -4,7 +4,7 @@ Donate link: http://wordprezi.appspot.com/plugin
 Tags: prezi, embed, wordpress, wordprezi
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 0.3
+Stable tag: 0.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl.html
 

@@ -3,7 +3,7 @@
  * Plugin Name: WordPrezi
  * Plugin URI: http://wordprezi.appspot.com/plugin
  * Description: Easy way to embed Prezi presentations in Wordpress blogposts
- * Version: 0.3
+ * Version: 0.4
  * Author: Pablo O Vieira
  * Author URI: http://povieira.com
  * License: GPLv3
@@ -71,7 +71,7 @@ function wordprezi_shortcode( $atts ) {
 		'width' => 550,
 		'height' => 400,
 		'zoom_freely' => 'N',
-		'use_html5' => 'Y'
+		'use_html5' => 'N'
 	), $atts ) );
 
 	preg_match( URL_PATTERN, $url, $output_array );
@@ -86,7 +86,9 @@ function wordprezi_shortcode( $atts ) {
 		"lock_to_path={$lock_to_path}&amp;autoplay=no&amp;autohide_ctrls=0" .
 		"&amp;features=undefined&amp;disabled_features=undefined" .
 		"&amp;html5={$html5}' " .
-		"width='{$width}' height='{$height}' frameBorder='0'></iframe>" . PHP_EOL .
+		"width='{$width}' height='{$height}' frameBorder='0'" .
+		"webkitAllowFullScreen mozAllowFullscreen allowfullscreen>" .
+		"</iframe>" . PHP_EOL .
 		"<!-- end WordPrezi -->" . PHP_EOL;
 }
 
