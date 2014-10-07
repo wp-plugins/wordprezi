@@ -23,17 +23,17 @@ For more information, check out [WordPrezi plugin website](http://wordprezi.apps
 
 == Installation ==
 
-= From WordPress.org =
-
-1. Download *WordPrezi*
-1. Upload `wordprezi` directory to the `/wp-content/plugins/` directory via stp, sftp, fcp, etc...
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Done!
-
 = From your WordPress dashboard =
 
 1. Visit 'Plugins > Add New'
 1. Search for 'WordPrezi'
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Done!
+
+= From WordPress.org =
+
+1. Download *WordPrezi plugin*
+1. Upload `wordprezi` directory to the `/wp-content/plugins/` directory via stp, sftp, ftp, etc...
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Done!
 
